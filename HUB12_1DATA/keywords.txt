@@ -1,0 +1,17 @@
+HUB12_1DATA	KEYWORD1
+drawPixel	KEYWORD2
+drawLine	KEYWORD2
+drawRect	KEYWORD2
+fillRect	KEYWORD2
+drawCircle	KEYWORD2
+fillCircle	KEYWORD2
+drawTriangle	KEYWORD2
+fillTriangle	KEYWORD2
+setFont	KEYWORD2
+drawText	KEYWORD2
+drawTextScaled	KEYWORD2
+setClipRect	KEYWORD2
+marqueeStart	KEYWORD2
+startAutoRefresh	KEYWORD2
+printf	KEYWORD2
+setCursor	KEYWORD2
